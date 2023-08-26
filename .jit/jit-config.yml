@@ -1,0 +1,7 @@
+applications:
+- api_domain: gelatidino.captainwallet.com
+  application_name: TEST DINO
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://gelatidino.captainwallet.com/redeem-request/402778627/21763be8-6c35-492f-8944-c7ebd8800bd9
+  type: web
